@@ -1,6 +1,6 @@
 {
-  "name": "cli-harrypotter-quiz",
-  "version": "1.0.0",
+  "name": "cli-harrypotterquiz-easy",
+  "version": "1.0.1",
   "description": "A simple multiple choice quiz in the CLI about harry potter!",
   "type": "module",
   "main": "index.js",
