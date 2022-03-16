@@ -19,7 +19,7 @@ async function welcome() {
 
   console.log(`
     ${chalk.bgBlue("HOW TO PLAY")}
-    You must provide a correct answer to all the questions in order to win!
+    You must provide a correct answer to all 10 questions in order to win!
     If you fail... ${chalk.bgRed("Voldemort")} will visit you in your sleep! 
 `);
 }
